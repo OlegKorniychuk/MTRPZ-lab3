@@ -1,0 +1,1 @@
+A simple exress app. Go to localhost:8080/ to get a greeting, or to localhost:8080/greeting/"name" to get a personalised greeting.
